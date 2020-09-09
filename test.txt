@@ -1,0 +1,25 @@
+<dd>
+	<i class="board-index board-index-1">1</i>
+	<a href="/films/1218273" title="误杀" class="image-link" data-act="boarditem-click" data-val="{movieId:1218273}">
+		<img src="//s3plus.meituan.net/v1/mss_e2821d7f0cfe4ac1bf9202ecf9590e67/cdn-prod/file:5788b470/image/loading_2.e3d934bf.png"
+		 alt="" class="poster-default">
+		<img alt="误杀" class="board-img" src="https://p0.meituan.net/movie/22857bface4d3e8586c8f45858d4fa92662013.jpg@160w_220h_1e_1c">
+	</a>
+	<div class="board-item-main">
+		<div class="board-item-content">
+			<div class="movie-item-info">
+				<p class="name">
+					<a href="/films/1218273" title="误杀" data-act="boarditem-click" data-val="{movieId:1218273}">误杀</a>
+				</p>
+				<p class="star">主演：肖央,谭卓,陈冲</p>
+				<p class="releasetime">上映时间：2019-12-13</p>
+			</div>
+			<div class="movie-item-number score-num">
+				<p class="score">
+					<i class="integer">9.</i>
+					<i class="fraction">4</i>
+				</p>
+			</div>
+		</div>
+	</div>
+</dd>
